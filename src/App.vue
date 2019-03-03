@@ -16,16 +16,7 @@ export default {
   data () {
     return {
 
-      fotos: [
-        { 
-          url: 'https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTwV4kVzT5McBdGSgqlVeRzubrNH_mOrrkKseDOGFURq20HmsrelEfMU7It',
-          titulo: 'cachorro'
-        },
-        { 
-          url: 'https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTwV4kVzT5McBdGSgqlVeRzubrNH_mOrrkKseDOGFURq20HmsrelEfMU7It',
-          titulo: 'cachorro2'
-        }
-      ]
+      fotos: []
 
     }
   },
