@@ -34,7 +34,7 @@ export default {
     return {
 	titulo: 'Titulo',
       fotos: [],
-	ipServer: '142.93.204.36',
+	ipServer: '0.0.0.0',
         filtro: '',
 
     }
